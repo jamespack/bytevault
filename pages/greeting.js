@@ -1,4 +1,4 @@
-export default function About({ greeting, highlight }) {
+export default function Greeting({ greeting, highlight }) {
     const highlightStyle = {
         color: '#FFFF00'
     }
